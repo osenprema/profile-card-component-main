@@ -15,7 +15,7 @@ body {
   background-image: url("../assets/images/bg-pattern-top.svg"), url("../assets/images/bg-pattern-bottom.svg");
   background-repeat: no-repeat, no-repeat;
   background-color: #19a2ae;
-  background-position: right calc(100vw * 0.43) bottom calc(100vh * 0.43), left calc(100vw * 0.43) top calc(100vh * 0.43);
+  background-position: right calc(100vw*0.45) bottom calc(100vh*0.45), left calc(100vw*0.45) top calc(100vh*0.45);
   display: flex;
   flex-direction: column; }
 
